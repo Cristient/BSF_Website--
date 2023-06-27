@@ -1,0 +1,268 @@
+#pos { position: absolute;
+       top: 10px;
+       left: 990px;
+}
+
+#head { color: yellow;
+        font-family: "franklin gothic";
+}
+
+#Log { position: absolute;
+       top: -30px;
+       left: 50px;
+       
+}
+
+table, th, td { border: 2px solid Black;
+margin: auto;
+width: 650px;
+text-align: center;
+}
+
+
+
+input { width: 270px;
+        border-radius: 50px;
+}
+
+#About { color: plum;
+         border: solid 5px grey;
+         width: 370px;
+        margin: 0;
+        padding: 10px;
+        background-color: IndianRed;
+        border-radius: 16px;
+        background: red;
+        position: absolute;
+        top: 460px;
+        left: 220px;
+}
+
+p.aboutp { border: solid 5px grey;
+           width: 370px;
+           margin: o;
+           padding: 10px;
+           background-color: Salmon;
+           border-radius: 16px;
+           position: absolute;
+           top: 500px;
+           left: 220px;
+
+}
+
+#BSFHymnLyrics { 
+                 border: solid 5px grey;
+                 width: 400px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: PaleGoldenrod;
+                 border-radius: 16px;
+                 
+                 position: absolute;
+                 left: 630px;
+                 top: 450px;
+}
+
+p.a {border: solid 5px grey;
+     width: 400px;
+     margin: 0;
+     padding: 10px;
+     background-color: DarkKhaki;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 630px;
+     top: 530px;
+}
+
+#Vision { color: Black;
+           border: solid 5px grey;
+                 width: 400px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: LightPink;
+                 border-radius: 16px;
+                 position: absolute;
+                 left: 200px;
+                 top: 840px;
+}
+
+p.vis { border: solid 5px grey;
+     width: 400px;
+     margin: 0;
+     padding: 10px;
+     background-color: DeepPink;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 200px;
+     top: 895px;
+}
+
+#Mission { color: Black;
+           border: solid 5px grey;
+                 width: 400px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: YellowGreen;
+                 border-radius: 16px;
+                 position: absolute;
+                 left: 630px;
+                 top: 960px;
+}
+
+p.miss { border: solid 5px grey;
+     width: 400px;
+     margin: 0;
+     padding: 10px;
+     background-color: MediumSpringGreen;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 630px;
+     top: 1015px;
+}
+
+
+#Core { color: Black;
+           border: solid 5px grey;
+                 width: 400px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: gold;
+                 border-radius: 16px;
+                 position: absolute;
+                 left: 200px;
+                 top: 1110px;
+}
+
+p.co { border: solid 5px grey;
+     width: 400px;
+     margin: 0;
+     padding: 10px;
+     background-color: orange;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 200px;
+     top: 1160px;
+}
+
+#Prof { color: Black;
+           border: solid 5px grey;
+                 width: 400px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: fuchsia;
+                 border-radius: 16px;
+                 position: absolute;
+                 left: 400px;
+                 top: 1283px;
+}
+
+
+p.pro { border: solid 5px grey;
+     width: 400px;
+     margin: 0;
+     padding: 10px;
+     background-color: BlueViolet;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 400px;
+     top: 1340px;
+}
+
+
+#Back          { 
+                 border: solid 5px grey;
+                 width: 700px;
+                 margin: 0px;
+                 padding: 10px;
+                 Background-color: PaleVioletRed;
+                 border-radius: 16px;
+                 
+                 position: absolute;
+                 left: 260px;
+                 top: 1735px;
+}
+
+
+p.bac {border: solid 5px grey;
+     width: 700px;
+     margin: 0;
+     padding: 10px;
+     background-color: Violet;
+     border-radius: 16px;
+   
+     position: absolute;
+     left: 260px;
+     top: 1790px;
+}
+
+body { background: url('background.jpg') no-repeat;
+       background-attachment: fixed;
+       background-size: 100% 100%;
+      
+}
+
+.video { position: absolute;
+         left: 275px;
+         top: 2450px;
+         border: hidden 5px grey;
+}
+
+#vid { position: absolute;
+         left: 500px;
+         top: 2490px;
+     border: solid 5px grey;
+     width: 200px;
+     margin: 0;
+     padding: 10px;
+     background-color: Magenta;
+     border-radius: 16px;
+     text-align: center;
+}
+
+#foot { position: absolute;
+        top: 3200px;
+        left: 475px;
+        text-align: center;
+        background-color: white;
+        
+}
+
+#aha { position: absolute;
+       top: 3200px;
+        left: 30px;
+        border-top: solid 10px magenta;
+        width: 1299;
+}
+
+
+
+
+#tha { position: absolute;
+       top: 3090px;
+       left: 450px;
+       color: DarkViolet;
+       border: solid 5px grey;
+       background-color: sandybrown;
+}
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
